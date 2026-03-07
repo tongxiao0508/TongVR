@@ -98,7 +98,7 @@ Material:
     - _FresnelPower: 7
     - _GridDensity: 15
     - _Line_Falloff: 0.02
-    - _Line_Thickness: 0.02
+    - _Line_Thickness: 0.1
     - _MaterialID: 1
     - _MaterialTypeMask: 2
     - _Metallic: 0
